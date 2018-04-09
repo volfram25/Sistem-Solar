@@ -22,4 +22,4 @@ Santa Ionut - Designer
 Softul poate fi instalat cu ajutotului programului executabil din folderul Installers->Windows x86 (x32)
 
 Sau daca nu doriti sa instalati softul poate fi pornit din Builds->Windows x86 (x32)
-Copiati fisierul Milky Way x86 (x32).exe in Builds->Windows x86 (x32) Builds->Windows x86 (x32)->Milky Way x86 (x32)_Data
+Copiati fisierul Milky Way x86 (x32).exe in Builds->Windows x86 (x32)->Milky Way x86 (x32)_Data
