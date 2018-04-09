@@ -19,6 +19,6 @@ Man Darius - Programator
 Santa Ionut - Designer
 
 # Instructiuni de instalare 
-Softul poate fi instalat cu ajutotului programului executabil din folderul BuildsAndInstallers->Installers->Windows x86 (x32)
+Softul poate fi instalat cu ajutotului programului executabil din folderul Installers->Windows x86 (x32)
 
-Sau daca nu doriti sa instalati softul poate fi pornit din BuildsAndInstallers->Builds->Windows x86 (x32)
+Sau daca nu doriti sa instalati softul poate fi pornit din Builds->Windows x86 (x32)
