@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSistem", "SolarSistem.csproj", "{A420DB1A-A668-2B81-D3F3-5CB8BF577FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSistem.Editor", "SolarSistem.Editor.csproj", "{38A3AC40-A640-01B5-9E8C-73111C8E4D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A420DB1A-A668-2B81-D3F3-5CB8BF577FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A420DB1A-A668-2B81-D3F3-5CB8BF577FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A420DB1A-A668-2B81-D3F3-5CB8BF577FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A420DB1A-A668-2B81-D3F3-5CB8BF577FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A3AC40-A640-01B5-9E8C-73111C8E4D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A3AC40-A640-01B5-9E8C-73111C8E4D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A3AC40-A640-01B5-9E8C-73111C8E4D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A3AC40-A640-01B5-9E8C-73111C8E4D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
