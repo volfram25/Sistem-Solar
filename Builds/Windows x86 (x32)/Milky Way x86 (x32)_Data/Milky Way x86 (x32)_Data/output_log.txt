@@ -1,0 +1,71 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 710M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.Data.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  1.613 seconds
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.139317 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2578 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.570709 ms
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: E:\Proiecte\Unity\SolarSistem\BuildsAndInstallers\Builds\Windows x86 (x32)\Milky Way x86 (x32)_Data\Managed\System.Xml.dll (this message is harmless)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1041.
+Total: 1.617602 ms (FindLiveObjects: 0.087807 ms CreateObjectMapping: 0.260572 ms MarkObjects: 0.971017 ms  DeleteObjects: 0.297064 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.582199 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 1.873613 ms (FindLiveObjects: 0.067851 ms CreateObjectMapping: 0.054167 ms MarkObjects: 0.716146 ms  DeleteObjects: 1.034307 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.410627 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1031.
+Total: 2.289845 ms (FindLiveObjects: 0.653427 ms CreateObjectMapping: 0.066711 ms MarkObjects: 1.130668 ms  DeleteObjects: 0.438468 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.510505 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 2.052650 ms (FindLiveObjects: 0.071272 ms CreateObjectMapping: 0.055307 ms MarkObjects: 0.711015 ms  DeleteObjects: 1.213914 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.122685 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1034.
+Total: 2.062343 ms (FindLiveObjects: 0.551364 ms CreateObjectMapping: 0.064430 ms MarkObjects: 1.024614 ms  DeleteObjects: 0.420223 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.519628 ms
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 2.865728 ms (FindLiveObjects: 0.065570 ms CreateObjectMapping: 0.055307 ms MarkObjects: 0.938517 ms  DeleteObjects: 1.805762 ms)
+
